@@ -1,0 +1,292 @@
+{
+    "menu": [
+                {
+                    "id": 1,
+                    "type": "pastas",
+                    "name": "PASTA IN BIANCO",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxpastabianco.jpg",
+                    "price": 2140
+                },
+
+                {
+                    "id": 2,
+                    "type": "pastas",
+                    "name": "POMODORO",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxpomodoro-002.jpg",
+                    "price": 2120
+                },
+
+                {
+                    "id": 3,
+                    "type": "pastas",
+                    "name": "PESTO",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxpesto.jpg",
+                    "price": 2340
+                },
+
+                {
+                    "id": 4,
+                    "type": "pastas",
+                    "name": "ARRABBIATA",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxarrabbiata.jpg",
+                    "price": 2040
+                },
+
+                {
+                    "id": 5,
+                    "type": "pastas",
+                    "name": "BOLOGNESE",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxbolognese.jpg",
+                    "price": 2620
+                },
+
+                {
+                    "id": 6,
+                    "type": "pastas",
+                    "name": "CARBONARA",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxcarbonara.jpg",
+                    "price": 2240
+                },
+
+                {
+                    "id": 7,
+                    "type": "pastas",
+                    "name": "CACCIATORE",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxcacciatore.jpg",
+                    "price": 2640
+                },
+
+                {
+                    "id": 8,
+                    "type": "pastas",
+                    "name": "PASTA SCAMPI",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxpastascampi.jpg",
+                    "price": 3540
+                },
+
+                {
+                    "id": 9,
+                    "type": "pastas",
+                    "name": "GNOCCHI SORRENTINO",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxsorrentino.jpg",
+                    "price": 2820
+                },
+
+                {
+                    "id": 10,
+                    "type": "pastas",
+                    "name": "FUNGHI DI BOSCO",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxcarbonara.jpg",
+                    "price": 3420
+                },
+
+                {
+                    "id": 11,
+                    "type": "pizzas",
+                    "name": "QUATTRO FORMAGGI",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxquattroformaggi-pizza202212.jpg",
+                    "price": 2290
+                },
+
+                {
+                    "id": 12,
+                    "type": "pizzas",
+                    "name": "SALAME",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxsalame-pizza202212.jpg",
+                    "price": 2250
+                },
+
+                {
+                    "id": 14,
+                    "type": "pizzas",
+                    "name": "PROSCIUTTO CRUDO",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxprosciuttocrudo-pizza202212.jpg",
+                    "price": 2550
+                },
+
+                {
+                    "id": 15,
+                    "type": "pizzas",
+                    "name": "MARGHERITA",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxmargherita-pizza202212.jpg",
+                    "price": 1990
+                },
+
+                {
+                    "id": 16,
+                    "type": "pizzas",
+                    "name": "PROSCIUTTO COTTO",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxprosciuttocotto-pizza202212.jpg",
+                    "price": 2350
+                },
+
+                {
+                    "id": 17,
+                    "type": "pizzas",
+                    "name": "PROSCIUTTO E FUNGHI",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxprosciuttoefunghi-pizza202212.jpg",
+                    "price": 2390
+                },
+
+                {
+                    "id": 18,
+                    "type": "pizzas",
+                    "name": "CARNISSIMA",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxcarnissima-pizza202212.jpg",
+                    "price": 2890
+                },
+
+                {
+                    "id": 19,
+                    "type": "salads",
+                    "name": "POLLO CON PESTO",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxpestoscsirke-salata.jpg",
+                    "price": 2390
+                },
+
+                {
+                    "id": 20,
+                    "type": "salads",
+                    "name": "NOSTRO CESARE",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxnostrocesare-salata.jpg",
+                    "price": 2390
+                },
+
+                {
+                    "id": 21,
+                    "type": "salads",
+                    "name": "CESARE SCAMPI",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/rakoscesaresalatabg2.jpg",
+                    "price": 3090
+                },
+
+                {
+                    "id": 22,
+                    "type": "salads",
+                    "name": "PREMIO INSALATA",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxpremium-salata.jpg",
+                    "price": 3390
+                },
+
+                {
+                    "id": 23,
+                    "type": "desserts",
+                    "name": "TIRAMISU",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxtiramisu202401.jpg",
+                    "price": 890
+                },
+
+                {
+                    "id": 24,
+                    "type": "desserts",
+                    "name": "NUTELLÁS MASCARPONÉS CALZONE",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/2016080443491resizev1.jpg",
+                    "price": 690
+                },
+
+                {
+                    "id": 25,
+                    "type": "desserts",
+                    "name": "PANNA COTTA KARAMELLEL",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxpannacotta-karamellel.jpg",
+                    "price": 850
+                },
+
+                {
+                    "id": 26,
+                    "type": "desserts",
+                    "name": "PISZTÁCIÁS CALZONE",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxpisztaciascalzone.jpeg",
+                    "price": 720
+                },
+
+                {
+                    "id": 27,
+                    "type": "desserts",
+                    "name": "TORTA DELLA NONNA",
+                    "picture": "https://bellozzo.hu/files/pix-kinalat-etel/desktop915x650pxtortadellanonna.jpg",
+                    "price": 990
+                },
+
+                {
+                    "id": 28,
+                    "type": "coffees",
+                    "name": "ESPRESSO",
+                    "picture": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Feasternshorecoffee.com%2Fwp-content%2Fuploads%2F2018%2F10%2Fespresso-bg.jpg&f=1&nofb=1&ipt=8843d4d9c63738e0bf2185dfde9b9c4b319a7358dc8e00e52b68936c5db6be34&ipo=images",
+                    "price": 430
+                },
+
+                {
+                    "id": 29,
+                    "type": "coffees",
+                    "name": "CAPPUCCINO",
+                    "picture": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._tccECnolCO2GAkDPAYCOwHaE8%26pid%3DApi&f=1&ipt=d1edd9eadddd2e432fa57db41710b037e72283c0eb08527fce00c4771e60545e&ipo=images",
+                    "price": 510
+                },
+
+                {
+                    "id": 30,
+                    "type": "coffees",
+                    "name": "LATTE MACCHIATO",
+                    "picture": "https://zenidees.com/wp-content/uploads/2020/12/latte-macchiato-1.jpg",
+                    "price": 570
+                },
+
+                {
+                    "id": 31,
+                    "type": "coffees",
+                    "name": "AMERICANO",
+                    "picture": "https://www.coffeemakered.com/wp-content/uploads/2017/05/What-is-Americano-Coffee-1.jpg",
+                    "price": 490
+                },
+
+                {
+                    "id": 32,
+                    "type": "coffees",
+                    "name": "ESPRESSO MACCHIATO",
+                    "picture": "https://aboveaveragecoffee.com/wp-content/uploads/2021/05/Espresso-Macchiato-What-it-is-how-to-make-it-how-it-tastes.jpg",
+                    "price": 470
+                },
+
+                {
+                    "id": 33,
+                    "type": "drinks",
+                    "name": "BELLOZZO LIMONÁDÉ",
+                    "picture": "https://frombee.de/wp-content/uploads/2019/04/Limonade2-e1555502618134.jpg",
+                    "price": 530
+                },
+
+                {
+                    "id": 34,
+                    "type": "drinks",
+                    "name": "SAN BENEDETTO VÍZ",
+                    "picture": "https://quanta-egypt.com/wp-content/uploads/San_Banedetto_Prestige_Bianca_Natural_Still_Mineral_Water_v2.jpg",
+                    "price": 530
+                },
+
+                {
+                    "id": 35,
+                    "type": "drinks",
+                    "name": "NATURAQUA VÍZ",
+                    "picture": "https://static.groby.hu/media/237/505/conv/NaturAqua-Emotion-Zero-sz%C3%A9nsavas-%C3%BCd%C3%ADt%C5%91ital-0%2C5-l-szeder-lime-full.png",
+                    "price": 530
+                },
+
+                {
+                    "id": 36,
+                    "type": "drinks",
+                    "name": "Coca-cola",
+                    "picture": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.8MeIaaAmGN4uU0pzY5fTGwHaOB%26pid%3DApi&f=1&ipt=998de41997b513738fe5b2c78f298fec331c135060507eb0377dbc5474e4ea69&ipo=images",
+                    "price": 570
+                },
+
+                {
+                    "id": 37,
+                    "type": "drinks",
+                    "name": "HEINEKEN",
+                    "picture": "https://ww1.valuecellars.com.au/files/2016/05/93497466-1-1024x1024.png",
+                    "price": 650
+                }
+
+    ]
+}
